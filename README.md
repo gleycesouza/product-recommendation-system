@@ -37,5 +37,5 @@ O processo de desenvolvimento pode ser dividido nas seguintes etapas:
 ## Conclusão
 
 Este projeto oferece uma demonstração prática de como utilizar modelos pré-treinados de redes neurais convolucionais para realizar recomendações baseadas em imagens. Embora o modelo não tenha sido explicitamente retreinado, ele mostra como adaptar modelos já treinados para tarefas específicas de recomendação visual. As tecnologias e abordagens empregadas são amplamente utilizadas em sistemas de recomendação e podem ser expandidas para outros domínios de produtos visuais.
-![result1.png]
-![result2.png]
+![Resultado Classificação](result1.png)
+![Resultado Recomendação](result2.png)
